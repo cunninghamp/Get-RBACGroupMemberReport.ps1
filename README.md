@@ -13,6 +13,8 @@ Generates the CSV files.
 ##Credits
 Written by: Paul Cunningham
 
+More info: http://exchangeserverpro.com/powershell-script-to-report-rbac-role-group-membership
+
 Find me on:
 
 * My Blog:	http://paulcunningham.me
