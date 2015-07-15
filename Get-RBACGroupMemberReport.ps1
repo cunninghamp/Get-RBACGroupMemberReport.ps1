@@ -15,6 +15,7 @@ Generates the CSV files.
 
 .NOTES
 Written by: Paul Cunningham
+URL: http://exchangeserverpro.com/powershell-script-to-report-rbac-role-group-membership
 
 Find me on:
 
